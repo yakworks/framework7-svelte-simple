@@ -1,0 +1,19 @@
+{
+  "name": "f7-svelte-simple",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "Vladimir Kharlampidi",
+  "license": "MIT",
+  "dependencies": {
+    "framework7": "^6.3.16",
+    "framework7-svelte": "^6.3.16"
+  },
+  "devDependencies": {
+    "rollup": "^2.47.0",
+    "rollup-plugin-svelte": "^7.1.0",
+    "svelte": "3.38.3",
+    "vite": "^2.8.4"
+  }
+}
