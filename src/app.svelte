@@ -4,7 +4,7 @@
   
 </script>
 
-<App name="My App" id="com.demoapp.test">
+<App theme='auto' name="My App" id="com.demoapp.test">
   <View main>
     <span>GO GO GO!</span>
   </View>

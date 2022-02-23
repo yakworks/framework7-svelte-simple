@@ -10,7 +10,7 @@ export default {
     assetsInlineLimit: 0,
     emptyOutDir: true,
   },
-  optimizeDeps: {
-    exclude: ['framework7-svelte/esm/svelte']
-  }
+  // optimizeDeps: {
+  //   exclude: ['framework7-svelte/esm/svelte']
+  // }
 };
