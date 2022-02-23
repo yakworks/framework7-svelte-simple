@@ -1,7 +1,6 @@
 <script>
   import { App, View } from 'framework7-svelte';
   import Home from './home.svelte';
-  // import store from './store';
 
   let routes = [
     {
