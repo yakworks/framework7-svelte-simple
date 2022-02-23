@@ -7,8 +7,8 @@
   "author": "Vladimir Kharlampidi",
   "license": "MIT",
   "dependencies": {
-    "framework7": "^6.3.16",
-    "framework7-svelte": "^6.3.16"
+    "framework7": "^7.0.0-beta.12",
+    "framework7-svelte": "^7.0.0-beta.12"
   },
   "devDependencies": {
     "rollup": "^2.47.0",
