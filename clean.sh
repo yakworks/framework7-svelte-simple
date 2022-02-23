@@ -1,4 +1,5 @@
 #!/bin/bash
 
 rm -rf node_modules
-rm pnpm-lock.yaml
+rm -f pnpm-lock.yaml
+rm -f package-lock.json

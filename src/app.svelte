@@ -1,6 +1,6 @@
 <!-- Sanity Check -->
 <script>
-  import { App,  View } from 'framework7-svelte';
+  import { App,  View } from 'framework7-svelte/esm/framework7-svelte-src';
   
 </script>
 
